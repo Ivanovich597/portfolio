@@ -62,7 +62,7 @@
         <input type="text" placeholder="Иван" required>
         <input type="email" placeholder="мой тг @uphm3" required>
         <textarea rows="5" placeholder="Опишите вашу задачу"></textarea>
-        <button type="submit" class="btn" style="border: none; cursor: pointer;">Отправить сообщение можно мне на тг</button>
+        <button type="submit" class="btn" style="border: none; cursor: pointer;">Отправить сообщение можно мне на тг @uphm3</button>
     </form>
 </div>
 
