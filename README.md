@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="by">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -28,14 +28,14 @@
 </header>
 
 <nav>
-    <a href="#about">Обо мне</a>
-    <a href="#services">Услуги</a>
+    <a href="#about">Обо мне можно узнать подрабней в моём тг</a>
+    <a href="#services">Услуги которые вам нужны найдёте здесь</a>
     <a href="#contact">Заказать проект</a>
 </nav>
 
 <div class="container" id="about">
     <h2>Почему выбирают меня?</h2>
-    <p>Я создаю быстрые и эффективные решения для малого и среднего бизнеса. Мои боты автоматизируют продажи, а сайты привлекают новых клиентов.</p>
+    <p>Я создаю быстрые и эффективные решения для малого и среднего бизнеса. Мои боты автоматизируют продажи, а сайты привлекают новых клиентов по всей рб.</p>
     
     <div class="services" id="services">
         <div class="service-card">
@@ -59,10 +59,10 @@
 <div class="container" id="contact">
     <h2 style="text-align: center;">Оставить заявку</h2>
     <form id="contactForm">
-        <input type="text" placeholder="Ваше имя" required>
-        <input type="email" placeholder="Ваш Email или Telegram" required>
+        <input type="text" placeholder="Иван" required>
+        <input type="email" placeholder="мой тг @uphm3" required>
         <textarea rows="5" placeholder="Опишите вашу задачу"></textarea>
-        <button type="submit" class="btn" style="border: none; cursor: pointer;">Отправить сообщение</button>
+        <button type="submit" class="btn" style="border: none; cursor: pointer;">Отправить сообщение можно мне на тг</button>
     </form>
 </div>
 
